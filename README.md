@@ -1,2 +1,4 @@
-# student-management-api
-A Student Management REST API built with Node.js, Express.js, and SQLite, supporting CRUD operations to create, read, update, and delete student records. API endpoints are tested using Postman.
+# Experiment 10
+Skill Development Course (Node JS / React JS / Django) - Lab Manual
+
+See the .docx file in this folder for the aim, steps, code and output.
